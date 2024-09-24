@@ -313,7 +313,7 @@ class _MyAppState extends State<MyApp> {
                               child: Column(
                                 children: [
                                   Text(
-                                    "Share plate,(food Donation App)",
+                                    "CookEase: Food Recipe App UI",
                                     style: TextStyle(
                                         color: Colors.white,
                                         fontWeight: FontWeight.bold,
@@ -324,7 +324,7 @@ class _MyAppState extends State<MyApp> {
                                   ),
                                   Text(
                                     textAlign: TextAlign.justify,
-                                    "This Android app links food donors with charities and individuals in need. It allows users to post surplus food for donation, with features for real-time notifications and location-based search.",
+                                    "CookEase is a sleek food recipe app UI built with Flutter, featuring an intuitive interface for exploring recipes by category and accessing detailed recipe pages. It emphasizes smooth navigation and a visually appealing layout, perfect for showcasing UI design skills.",
                                     style: TextStyle(
                                         color: Colors.white,
                                         fontWeight: FontWeight.bold),
@@ -339,7 +339,7 @@ class _MyAppState extends State<MyApp> {
                                                   Colors.grey.shade700)),
                                       onPressed: () {
                                         _launchURL(
-                                            "https://github.com/Dhipin03/Shareplate_final");
+                                            "https://github.com/Dhipin03/FoodRecipe_App");
                                       },
                                       child: FaIcon(
                                         FontAwesomeIcons.github,
@@ -363,7 +363,7 @@ class _MyAppState extends State<MyApp> {
                               child: Column(
                                 children: [
                                   Text(
-                                    "Dice Roll APP",
+                                    "Amazon Prime Video UI Clone",
                                     style: TextStyle(
                                         color: Colors.white,
                                         fontWeight: FontWeight.bold,
@@ -374,7 +374,7 @@ class _MyAppState extends State<MyApp> {
                                   ),
                                   Text(
                                     textAlign: TextAlign.justify,
-                                    "This app simulates dice rolls with a simple tap, offering a realistic and interactive experience. Users can roll one or more dice and instantly view the results, making it perfect for games and decision-making.",
+                                    "PrimeFlix is a Flutter-based clone of the Amazon Prime Video UI, designed for Android. It features a sleek interface with scrolling carousels, a bottom navigation bar, and video detail pages, offering a smooth and responsive user experience similar to the original platform.",
                                     style: TextStyle(
                                         color: Colors.white,
                                         fontWeight: FontWeight.bold),
@@ -389,7 +389,7 @@ class _MyAppState extends State<MyApp> {
                                                   Colors.grey.shade700)),
                                       onPressed: () {
                                         _launchURL(
-                                            "https://github.com/Dhipin03/Dice_Roll");
+                                            "https://github.com/Dhipin03/AmazonPrimeVideo_UI_Clone");
                                       },
                                       child: FaIcon(
                                         FontAwesomeIcons.github,
